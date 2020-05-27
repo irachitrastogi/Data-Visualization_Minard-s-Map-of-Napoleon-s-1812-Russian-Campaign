@@ -1,0 +1,15 @@
+html {
+    min-height: 100%;
+    overflow-x: hidden;
+}
+body {
+    position: relative;
+    font-family: sans-serif;
+    font-size: 0.8em;
+}
+svg {
+    width: 100%;
+}
+#chart {
+    border-bottom: 2px solid #999;
+}
